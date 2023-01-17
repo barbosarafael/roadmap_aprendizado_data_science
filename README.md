@@ -14,7 +14,7 @@ Olá, se você está por aqui é porque é interessado no assunto. Vou colocar a
   - Estatística: 
     - Análise Exploratória: medidas descritivas, como média, mediana, desvio padrão e etc (recomendo olhar o livro "Estatística Básica - Bussab e Morettin")
     - Teste de hipóteses: distribuições de probabilidade mais comuns; como a Normal, Binomial e Exponencial; p-valor e intervalo de confiança (recomendo o mesmo livro anterior)
-  - **Completar no futuro**
+  - **TO-DO**
 
 - **Crie um portfólio:** É algo que escuto desde que eu estagiava na SEFA (2017 ou 18) e acompanhava o [slack do Datahackers](https://www.datahackers.com.br/slack/). Se você quer entrar na área e não tiver nenhum conhecido que pegue sua mão e te encaminhe para uma vaga, esse é o melhor jeito. 
   - **Por quê**: Basicamente, a ideia é ter um local onde as pessoas irão ver e acompanhar os seus trabalhos, projetos e aprendizado. 
@@ -34,13 +34,23 @@ Olá, se você está por aqui é porque é interessado no assunto. Vou colocar a
 
 - **Excel**: Aprenda um pouco, até o PROCV. Talvez seja o software mais utilizado no ambiente profissional. Tem bastante solução gambiarra que você não consegue fazer em Python mas consegue em Excel.
 
-**Git**: Usando esse "sisteminha", você consegue "voltar no tempo" para pegar uma modificação sua do passado, fora que você consegue *trackear* todas as modificações que você fez no seu código.
+- **Git**: Usando esse "sisteminha", você consegue "voltar no tempo" para pegar uma modificação sua do passado, fora que você consegue *trackear* todas as modificações que você fez no seu código.
 
 - **Depois de tudo isso, caso você tenha tempo: Software de visualização**: PowerBI, Tableau e etc. Não tenho preferência, pois eu particularmente odeio fazer dashboard.
 
 
+## 4. Cursos
 
-## 4. Dicas
+- [Introdução à Ciência de Dados 3.0](https://www.datascienceacademy.com.br/cursosgratuitos): **Gratuito**. Para pegar uma visão sobre a área, objetivos e futuros. 
+- [Fundamentos de Linguagem Python Para Análise de Dados e Data Science](https://www.datascienceacademy.com.br/cursosgratuitos): **Gratuito**. Focado em prática com Python, então você vai aprender tanto Python quanto a parte de análise de dados. 
+- [Formação Cientista de Dados: O Curso Completo [2023]](https://www.udemy.com/course/cientista-de-dados/): **Pago**, mas é um curso bem completo, onde o pessoal fala muito bem do professor e também dos assuntos abordados. Ele é focado em prática, o ideal para o nosso aprendizado. 
+- Existem outros diversos sites gratuitos que ensinam tutoriais também: Medium, StackOverflow, Towards DataScience e etc.
+
+## 5. Como estudar? (Método que funciona para mim)
+
+**TO-DO**
+
+## 6. Dicas
 
 - O seu papel como cientista/analista de dados é traduzir o que suas análises significam para uma pessoa, geralmente, de negócio. Portanto, a habilidade de se comunicar é essencial também. Outra, o software que você faz a análise é um **meio** para chegar no **fim** que é o resultado.
 
