@@ -1,20 +1,100 @@
 # Roadmap de aprendizado em Ciência de Dados
 
-Olá, se você está por aqui é porque é interessado no assunto. Vou colocar alguns pontos que acho essencial de aprendizado e algumas dicas, no geral. 
+Olá, se você está por aqui é porque é interessado no assunto. Vou colocar alguns pontos que acho essencial de aprendizado e algumas dicas, no geral. **Não se baseie somente por esse roadmap, existem outros em que pessoas mais experientes escreveram**.
 
-## 1. Habilidades gerais (mais importantes)
+## 1. Principal "lema" da área
+
+- O seu papel como cientista/analista de dados é traduzir/intepretar o que nossas análises significam para uma pessoa que não é desse mundo, com o objetivo de munir essa pessoa de informação para que ela possa tomar a decisão
+
+- O software que você faz a análise é um **meio** para chegar no **fim** que é o resultado.
+3451
+- A habilidade de se comunicar é essencial também
+
+## 2. Habilidades - O que aprender
+
+### 2.1. Gerais
 
 - **Seja focado e tente o máximo ter um aprendizado constante:** assim como em qualquer outra coisa que você quer aprender, isso é essencial para nossa área também. Existem muitas vertentes e assuntos a serem estudados dentro da área, então cuidado para não se desfocar.
 
 - **Mantenha a calma e, se você tem alguma religião, a fé:** É um processo de aprendizado. Assim como você vai aprender a tocar violão, por exemplo, não é do nada que você vai aprender a soltar alguns acordes. Logo, não será do nada que você vai começar a gerar alguns modelos de Deep Learning no nível do pessoal da NVIDIA.
 
+### 2.2. Técnicas
+
+- **Estatística**: 
+  - Análise Exploratória: medidas descritivas, como média, mediana, desvio padrão e etc (recomendo olhar o livro "Estatística Básica - Bussab e Morettin")
+  - Correlação: positiva e negativa, o que influencia duas variáveis serem correlacionadas e a questão da causalidade
+  - Teste de hipóteses: distribuições de probabilidade mais comuns; como a Normal, Binomial e Exponencial; p-valor e intervalo de confiança (recomendo o mesmo livro anterior)
+  - Regressão: entenda a lógica por trás. Um pouco de multiplicação de matrizes. Faça um exemplo na mão da regressão **linear** e da **logística**. Estude um pouco sobre como funcionam a **ridge e lasso**. Existem outras que são interessantes conhecer, como a **quantílica** e a **elasticnet**
+  - Séries temporais: estacionariedade, tendência, sazonalidade, autocorrelação, média móvel, testes de raiz unitária, modelos (ARIMA, HoltWinters e etc.) e métodos de avaliação do modelo (Erro Quadrático Médio, Erro Absoluto Médio e etc.)
+  
+  - Outros tópicos não tão úteis nesse primeiro momento, mas que são interessantes:
+    - Amostragem
+    - Inferência bayesiana
+    
+- **Machine Learning**: Existem determinados assuntos nesse campo que são uma evolução ou releitura de algum conceito estatístico ou computacional
+  
+  - Modelos: 
+    - Saiba a diferença entre um modelo **supervisionado** (de classificação ou regressão), **não supervisionado** e de **reforço**. 
+    
+    - Supervisionados:
+      - Naive Bayes
+      - KNN
+      - Baseados em árvore: Árvore de decisão e Random Forest (o nome em inglês é mais legal de se falar). Entenda os hiperparâmetros e como esse modelo gera a decisão
+      - Gradient Boosting Machine: é um método de aprendizado diferente em modelos. É muito utilizado atualmente, em modelos como **XGBoost**, **LGBM** e **Catboost**.
+      
+    - Não supervisionados:
+      - K-means (o mais utilizado)
+      - Hierárquico    
+  - Métricas de avaliação:
+    - Classificação: Matriz de Confusão, Acurácia, Recall, Precision, F1 
+    - Regressão: R², MSE, RMSE, MAE e muitas outras siglas que existem
+    
+  - O básico do básico do básico em NLP (Natural Language Process)
+  
+  - Outros tópicos não tão úteis nesse primeiro momento, mas que são interessantes
+    - Deep Learning
+    - Visão Computacional
+
+- **Softwares**:
+
+  - **Python**: Sim, Python você utiliza em tudo que é canto: análise de dados, machine learning, automação e etc. Tem mais tutoriais, tanto em inglês quanto em português. 
+  - **SQL**: Obrigatório, após conhecer algumas coisas de programação em Python, passe para essa linguagem para aprender a parte de DQL (Data Query Language), que é a parte de consulta aos dados.
+  - **Excel**: Aprenda um pouco, até o PROCV. Talvez seja o software mais utilizado no ambiente profissional. Tem bastante solução gambiarra que você não consegue fazer em Python mas consegue em Excel.
+  - **Git**: Usando esse "sisteminha", você consegue "voltar no tempo" para pegar uma modificação sua do passado, fora que você consegue *trackear* todas as modificações que você fez no seu código.
+  - **Depois de tudo isso, caso você tenha tempo: Software de visualização**: PowerBI, Tableau e etc. Não tenho preferência, pois eu particularmente odeio fazer dashboard.
+  
+  
+## 3. Como aprender
+
+
+## 4. Principais softwares
+
+
+## 5. Cursos
+
+- Nanodegree
+
+
+## 6. Livros recomendados
+
+
+
+
+## 7. Dicas gerais
+
+
+# PARA FINALIZAR DEPOIS:
+
+
+
+
+## 1. Habilidades gerais (mais importantes)
+
+
+
 ## 2. Habilidades da "área"
 
-- **O que estudar:**
-  - Estatística: 
-    - Análise Exploratória: medidas descritivas, como média, mediana, desvio padrão e etc (recomendo olhar o livro "Estatística Básica - Bussab e Morettin")
-    - Teste de hipóteses: distribuições de probabilidade mais comuns; como a Normal, Binomial e Exponencial; p-valor e intervalo de confiança (recomendo o mesmo livro anterior)
-  - **TO-DO**
+
 
 - **Crie um portfólio:** É algo que escuto desde que eu estagiava na SEFA (2017 ou 18) e acompanhava o [slack do Datahackers](https://www.datahackers.com.br/slack/). Se você quer entrar na área e não tiver nenhum conhecido que pegue sua mão e te encaminhe para uma vaga, esse é o melhor jeito. 
   - **Por quê**: Basicamente, a ideia é ter um local onde as pessoas irão ver e acompanhar os seus trabalhos, projetos e aprendizado. 
