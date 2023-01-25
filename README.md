@@ -87,6 +87,7 @@ Olá, se você está por aqui é porque é interessado no assunto. Vou colocar a
 - [Introdução à Ciência de Dados 3.0](https://www.datascienceacademy.com.br/cursosgratuitos): **Gratuito**. Para pegar uma visão sobre a área, objetivos e futuros. 
 - [Fundamentos de Linguagem Python Para Análise de Dados e Data Science](https://www.datascienceacademy.com.br/cursosgratuitos): **Gratuito**. Focado em prática com Python, então você vai aprender tanto Python quanto a parte de análise de dados. 
 - [Formação Cientista de Dados: O Curso Completo [2023]](https://www.udemy.com/course/cientista-de-dados/): **Pago**, mas é um curso bem completo, onde o pessoal fala muito bem do professor e também dos assuntos abordados. Ele é focado em prática, o ideal para o nosso aprendizado. 
+- [Curso de SQL Completo Gratuito (BD-03)](https://www.softblue.com.br/site/curso/id/3/CURSO+SQL+COMPLETO+BASICO+AO+AVANCADO+ON+LINE+BD03): Na época que eu fiz, me deu uma boa base de como construir query/consulta e também entender um pouco as demais estruturas do SQL. Recomendo terminar esse curso e engatar em alguns exercícios de SQL, [nesses possíveis sites](https://github.com/barbosarafael/Aprendizado-SQL)
 - Nanodegrees da Udacity: Recomendaria para pessoas que já são da área.
 - Existem outros diversos sites gratuitos que ensinam tutoriais também: Medium, StackOverflow, Towards DataScience e etc.
 
